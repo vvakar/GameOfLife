@@ -4,6 +4,7 @@ import static channeling.conway.cell.LivingCell.CellStatus.*;
 
 /**
  * Calculate status of a cell (dead or live).
+ *
  */
 public class CellStatusCalculator {
 
